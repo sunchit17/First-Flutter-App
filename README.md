@@ -1,6 +1,6 @@
 # weight_on_planet
 
-A new Flutter project.
+My First Flutter Application 
 
 ## Getting Started
 
